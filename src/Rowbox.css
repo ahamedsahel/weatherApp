@@ -1,0 +1,32 @@
+.flex-container{
+    display: flex;
+    background-color: #f1f1f1;
+    width: 167%;
+    height: fit-content;
+
+  
+}
+.flex-container > div {
+    background-color: rgb(90, 92, 95);
+  color: white;
+  height: fit-content;
+  margin: 13px;
+  border-radius: 12px;
+  
+  
+ 
+  width: 16%;
+  box-shadow: 3px 7px 9px 1px black;
+  margin-left: 32px;
+}
+.city-temprow{
+    
+    font-weight: bold;
+  
+    color: #ffffff;
+    text-align: center;
+}
+.degr{
+  font-size: 2em;
+}
+

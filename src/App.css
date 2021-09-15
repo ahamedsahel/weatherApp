@@ -1,0 +1,43 @@
+html, body, #root {
+  font: 0.9rem sans-serif;
+  
+  background: linear-gradient(90deg, rgba(6,11,50,1) 12%, rgba(29,4,56,1) 46%, rgba(4,20,50,1) 96%);
+  color: #1e2432;
+  height: 100vh;
+  margin: 0;
+}
+.homh {
+  font-weight: bold;
+  color: rgb(224, 203, 8);
+  font-family: fangsong;
+
+  text-shadow: 4px 1px 6px #dd2d2d;
+}
+
+
+.main-container{
+  width: 60%;
+}
+
+
+.search {
+  padding: 20px;
+  height: 51px;
+  margin-left: 24%;
+}
+.bttn{
+  border-radius: 10px;
+  width: 85px;
+    background: silver;
+}
+.bttn:hover{
+  background: rgb(87, 87, 87);
+  box-shadow: 0px 0px 6px 4px #af8eff;
+}
+
+
+.display__box{
+  margin-left: 74%;
+    margin-top: 39px;
+}
+
